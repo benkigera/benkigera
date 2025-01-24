@@ -1,5 +1,39 @@
 # 💫 About Me:
-🔭 I’m a software engineer who loves building front end web and mobile application, passionate about good human computer interaction
+Here's an enhanced version of your GitHub profile bio, emphasizing your passion for Human-Computer Interaction (HCI) and creating clean, user-focused interfaces:  
+
+---
+
+### 🌟 About Me  
+🔭 I’m a **Software Engineer** with a strong passion for **Human-Computer Interaction (HCI)** and crafting seamless **user experiences**. My mission is to bridge the gap between technology and humans by creating **intuitive, accessible, and beautiful interfaces**.  
+
+💻 I specialize in **frontend development** for both **web** and **mobile applications**, leveraging modern frameworks and technologies to bring innovative designs to life.  
+
+🌱 Constantly learning and exploring new tools, techniques, and methodologies to stay at the forefront of **interface design and usability**.  
+
+✨ My mantra: **“Technology is only as powerful as its ability to be understood and enjoyed by its users.”**
+
+---
+
+### 🚀 Skills  
+- **Languages**: JavaScript, TypeScript, Dart  
+- **Frameworks & Tools**: React, Flutter, Angular, TailwindCSS, Material Design  
+- **Design Tools**: Figma, Adobe XD, Sketch  
+- **Other**: Accessibility, Usability Testing, Responsive Design  
+
+---
+
+### 🌐 Interests  
+- **Human-Centered Design**: Creating tech that prioritizes users  
+- **Motion Design**: Adding micro-interactions for delightful experiences  
+- **Accessibility**: Building interfaces for everyone  
+- **Performance**: Ensuring smooth, responsive applications  
+
+---
+
+### 💡 Let's Connect!  
+If you're interested in collaborating on projects that push the boundaries of great interfaces, feel free to reach out!  
+
+---  
 
 
 ## 🌐 Socials:
